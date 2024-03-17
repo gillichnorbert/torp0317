@@ -1,0 +1,14 @@
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/bin/Debug/net6.0/TorpeAdatok.deps.json
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/bin/Debug/net6.0/TorpeAdatok.runtimeconfig.json
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/bin/Debug/net6.0/TorpeAdatok.dll
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/bin/Debug/net6.0/TorpeAdatok.pdb
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.csproj.AssemblyReference.cache
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.AssemblyInfoInputs.cache
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.AssemblyInfo.cs
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.csproj.CoreCompileInputs.cache
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.dll
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/refint/TorpeAdatok.dll
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.pdb
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/TorpeAdatok.genruntimeconfig.cache
+/Users/gillichnorbert/Projects/Torpok/TorpeAdatok/obj/Debug/net6.0/ref/TorpeAdatok.dll

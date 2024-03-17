@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Futtat", "Futtat\Futtat.csproj", "{93BB63AB-7C18-48F1-9422-0D7485A5D031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorpeAdatok", "TorpeAdatok\TorpeAdatok.csproj", "{D52E04BE-3A47-4086-B439-FFA63A695D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BB63AB-7C18-48F1-9422-0D7485A5D031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BB63AB-7C18-48F1-9422-0D7485A5D031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BB63AB-7C18-48F1-9422-0D7485A5D031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BB63AB-7C18-48F1-9422-0D7485A5D031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52E04BE-3A47-4086-B439-FFA63A695D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52E04BE-3A47-4086-B439-FFA63A695D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52E04BE-3A47-4086-B439-FFA63A695D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52E04BE-3A47-4086-B439-FFA63A695D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261BC51E-D091-4605-BED3-428DEA1A6AD3}
+	EndGlobalSection
+EndGlobal
